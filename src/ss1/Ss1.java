@@ -15,10 +15,11 @@ public class Ss1 {
         String names = " Nam, Truong, Dung, Danh, Tung, Khanh, Linh, Dong, Chien, Truong2, Ngoc, Toản, Toàn";
         String[] arrayName = names.split(",");
         for (int i = 0; i < arrayName.length; i++) {
-            System.out.println(i+1+". "+arrayName[i].trim());
+            System.out.println(i + 1 + ". " + arrayName[i].trim());
+            System.out.println("KaKa");
         }
-        System.out.println("1." + arrayName[0]);
-        System.out.println("2." + arrayName[1]);
+        
+        
 
     }
 }
