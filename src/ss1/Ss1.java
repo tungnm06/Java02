@@ -73,6 +73,7 @@ public class Ss1 {
             default: System.out.println("Nhập sai rồi nhập lại đi"); break;
 
         }
+        System.out.println("Xin chao");
     }
    
     
